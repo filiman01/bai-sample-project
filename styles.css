@@ -1,0 +1,28 @@
+body {
+	font-family: sans-serif;
+	margin: 20px auto;
+	max-width: 600px;
+}
+
+.button {
+	background-color: rgb(153, 153, 153);
+	border:  1px solid rgb(146, 146, 146);
+	border-radius: 5px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.button:hover {
+	background-color: #fff;
+	border:  1px solid rgb(146, 146, 146);
+	color: #333;
+}
+
+.kitties {
+    width: 100%;
+    max-width: 600%
+}
